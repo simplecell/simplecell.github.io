@@ -169,7 +169,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px 微软雅黑,Verdana";
-	    ctx.fillText(" [亲爱的---]", 23, 10);
+	    ctx.fillText(" [亲爱的老婆]", 23, 10);
             ctx.restore();
         },
         clear: function() {
